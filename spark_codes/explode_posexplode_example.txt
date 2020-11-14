@@ -1,0 +1,5 @@
+Name|Age|Education
+Azar|25|MBA,BE,HSC
+HARI|32|
+KUMAR|35|ME,BE,Diploma
+IMAM|24|B.Tech,HSC
