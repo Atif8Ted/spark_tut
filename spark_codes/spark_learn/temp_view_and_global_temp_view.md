@@ -14,4 +14,6 @@ select * from temp_view_name```
 
 ### Syntax to create new Session in spark
 
-> ```python newSpark_session = spark.newSession```
+ ```python
+ newSpark_session = spark.newSession
+ ```
